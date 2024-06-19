@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  security-smells:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-19T11:02:54.492549-03:00"
+    description: A Helm chart for Kubernetes to find security smells in your code
+    digest: f9a5617aa093619bc68d20ff92f53ac5a7af352187964d918ba1414a3a89b568
+    name: security-smells
+    type: application
+    urls:
+    - https://rdurelli.github.io/github-helm-chart/security-smells-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-19T11:02:54.491777-03:00"
